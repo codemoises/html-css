@@ -1,7 +1,9 @@
 @charset "UTF-8";
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
     background-color: #98b4fc;
     margin: 0px;
 }
@@ -10,24 +12,32 @@ header {
     background-color: #c9d3ee;
     padding: 10px;
     margin: 15px;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.486);
 }
 
 main {
     background-color: #c9d3ee;
     padding: 10px;
     margin: 13px;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.486);
 }
 
 footer {
     text-align: center;
     background-color: #1D3557;
     color: white;
-    padding: 1px;
+    padding: 4px;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.486);
+}
+
+footer > p {
+    margin: 0px;
 }
 
 nav {
     background-color: #b8b3b4;
     padding: 3px;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.486);
 }
 
 nav > a {
@@ -46,7 +56,7 @@ nav > a:hover {
 #assuntos {
     background-color: #b8b3b4;
     margin: 3px;
-    
+    box-shadow: 2px 1px 2px rgba(0, 0, 0, 0.486);
 }
 
 #assuntos > a {
