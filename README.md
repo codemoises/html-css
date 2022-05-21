@@ -1,2 +1,5 @@
-# html-css
- <h1>Início dos meus estudos em html5 e css3! (e as vezes javaScript)</h1>
+<h1 align="center">
+👌<br>HTML5 & CSS3 (e em alguns casos, javaScript)
+</h1>
+
+<p align="center">@codemoises</p>
